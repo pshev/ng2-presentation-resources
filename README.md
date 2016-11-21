@@ -1,3 +1,6 @@
+# power point link
+- [View/Download PowerPoint Presentation](https://www.dropbox.com/s/o4epfj123zvaee3/Angular2%20presentation.pptx?dl=0)
+
 # angular2 presentation additional resources
 
 - [Reactive Angular2 with ngRx - Rob Womald](https://youtu.be/mhA7zZ23Odw)
