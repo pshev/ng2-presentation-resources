@@ -1,7 +1,7 @@
 # power point link
 - [View/Download PowerPoint Presentation](https://www.dropbox.com/s/o4epfj123zvaee3/Angular2%20presentation.pptx?dl=0)
 
-# angular2 presentation additional resources
+# additional resources
 
 - [Reactive Angular2 with ngRx - Rob Womald](https://youtu.be/mhA7zZ23Odw)
 - [Everything is a Stream - Rob Wormald](https://youtu.be/UHI0AzD_WfY)
